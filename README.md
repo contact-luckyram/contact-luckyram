@@ -12,7 +12,7 @@
   <a href="https://github.com/contact-luckyram"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://linkedin.com/in/lucky-ram"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:contact.luckyram@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://komarev.com/ghpvc/?username=contact-luckyram&style=for-the-badge&color=7c3aed&label=Profile+Views" alt="Profile views" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=github.com%2Fcontact-luckyram&label=PROFILE%20VIEWS&labelColor=%237c3aed&countColor=%23181717&style=for-the-badge" alt="Profile views" />
 </p>
 
 ---
