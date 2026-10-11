@@ -39,7 +39,7 @@ I don't just use AI to autocomplete code. I work with **AI agents** that plan, w
 
 **How I work with AI agents**
 
-- 🧑‍✈️ **Claude Code** as my main AI pair-programmer: it reads the codebase, plans changes, edits multiple files, runs tests and fixes failures, while I review every change
+- 🤝 **Claude Code** as my main AI pair-programmer: it reads the codebase, plans changes, edits multiple files, runs tests and fixes failures, while I review every change
 - 🔌 **MCP (Model Context Protocol)** to connect agents to real tools such as databases, docs, GitHub and APIs, so they work with real project context
 - 📋 **Spec-first workflow:** I write the requirements and acceptance criteria, let the agent draft the implementation, then review, test and harden it
 - 🛡️ **Human in the loop:** security, data handling and compliance (Healthcare/FinTech) are always reviewed by me, never left to the agent alone
@@ -56,7 +56,7 @@ I don't just use AI to autocomplete code. I work with **AI agents** that plan, w
 <p align="center">
   <img src="https://img.shields.io/badge/Agentic_AI-7C3AED?style=for-the-badge&logo=probot&logoColor=white" alt="Agentic AI" />
   <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
-  <img src="https://img.shields.io/badge/MCP-0EA5E9?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="MCP" />
+  <img src="https://img.shields.io/badge/MCP-0EA5E9?style=for-the-badge" alt="MCP" />
   <img src="https://img.shields.io/badge/Claude_API-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude API" />
   <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API" />
   <img src="https://img.shields.io/badge/RAG-10B981?style=for-the-badge&logo=databricks&logoColor=white" alt="RAG" />
