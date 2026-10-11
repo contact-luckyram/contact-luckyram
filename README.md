@@ -37,6 +37,7 @@ I'm **Lucky Ram**, a full-stack developer who started with **PHP** and grew into
 | Project | Description |
 |---|---|
 | 🔭 [**laravel-telescope-guide**](https://github.com/contact-luckyram/laravel-telescope-guide) | Step-by-step guide to install and use Laravel Telescope to monitor requests, queries, jobs, mail, exceptions and more |
+| 🚨 [**laravel-sentry-guide**](https://github.com/contact-luckyram/laravel-sentry-guide) | Step-by-step guide to integrate Sentry with Laravel for real-time error detection, alerts, performance and cron monitoring |
 | 🧩 [**laravel-filament-modules**](https://github.com/contact-luckyram/laravel-filament-modules) | Step-by-step guide to a modular Laravel + Filament setup with nwidart/laravel-modules |
 
 ## 🛠️ Tech Stack
