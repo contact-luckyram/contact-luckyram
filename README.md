@@ -24,7 +24,7 @@ I'm **Lucky Ram**, a full-stack developer who started with **PHP** and grew into
 
 - 🏥 Building software in the **Healthcare** and **Finance** domains
 - 🇺🇸 Interested in **automating systems and EVV (Electronic Visit Verification) integrations in the US healthcare system**: syncing home health and hospice visit data from agency platforms to state EVV aggregators, validating it, and automating the workflows around it
-- 🩺 Automating **EMR (Electronic Medical Record) systems** and building **custom EMRs**: patient records, scheduling, clinical documentation, billing workflows and integrations with other healthcare systems
+- 🩺 Interested in **automating EMR (Electronic Medical Record) systems** and **building custom EMRs** for US healthcare: patient records, scheduling, clinical documentation, billing workflows and integrations with other healthcare systems
 - ⚙️ Focused on clean architecture, secure APIs and admin panels that teams love to use
 - 🔌 Experienced with third-party integrations, data sync and backend automation
 - 🤖 Working with **agentic AI** (Claude Code + MCP) to design, build and test faster without cutting corners on quality
