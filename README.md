@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="./banner.svg" alt="Lucky Ram — Full-Stack PHP & Node.js Developer" width="100%" />
+  <img src="./banner.svg" alt="Lucky Ram — Full-Stack Developer · Laravel · Node.js · Agentic AI" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF2D20&center=true&vCenter=true&width=600&lines=Laravel+%26+Filament+Developer;Node.js+%7C+REST+APIs+%7C+MySQL;AI-Assisted+Dev+%7C+LLM+Integrations;Healthcare+%26+FinTech+Solutions;Clean+code.+Secure+systems." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF2D20&center=true&vCenter=true&width=600&lines=Laravel+%26+Filament+Developer;Node.js+%7C+REST+APIs+%7C+MySQL;Agentic+AI+%7C+Claude+Code+%7C+MCP;AI-Assisted+Dev+%7C+LLM+Integrations;EVV+Integrations+%7C+US+Healthcare+Automation;Healthcare+%26+FinTech+Solutions;Clean+code.+Secure+systems." alt="Typing SVG" />
   </a>
 </p>
 
@@ -23,14 +23,44 @@
 I'm **Lucky Ram**, a full-stack developer who started with **PHP** and grew into building modern web apps with **Laravel**, **Filament** and **Node.js**.
 
 - 🏥 Building software in the **Healthcare** and **Finance** domains
+- 🇺🇸 Interested in **automating systems and EVV (Electronic Visit Verification) integrations in the US healthcare system**: syncing home health and hospice visit data from agency platforms to state EVV aggregators, validating it, and automating the workflows around it
 - ⚙️ Focused on clean architecture, secure APIs and admin panels that teams love to use
 - 🔌 Experienced with third-party integrations, data sync and backend automation
-- 🤖 Using **AI-assisted development** to design, build and test faster without cutting corners on quality
+- 🤖 Working with **agentic AI** (Claude Code + MCP) to design, build and test faster without cutting corners on quality
 - 🧠 Adding practical AI to products: LLM chatbots, document & data extraction, smart search and workflow automation (OpenAI / Claude APIs)
 - 🌱 Always learning — currently going deeper into scalable Node.js services and AI integrations
-- 💬 Ask me about **Laravel, Filament, REST APIs, MySQL, AI integrations**
+- 💬 Ask me about **Laravel, Filament, REST APIs, MySQL, Agentic AI, AI integrations**
 - 💼 **Open to freelance projects** — web apps, admin panels, APIs, integrations and AI features
 - 📫 Reach me at **contact.luckyram@gmail.com**
+
+## 🤖 Agentic AI & the AI I Use
+
+I don't just use AI to autocomplete code. I work with **AI agents** that plan, write, test and refactor alongside me, and I build agentic features into the apps I deliver.
+
+**How I work with AI agents**
+
+- 🧑‍✈️ **Claude Code** as my main AI pair-programmer: it reads the codebase, plans changes, edits multiple files, runs tests and fixes failures, while I review every change
+- 🔌 **MCP (Model Context Protocol)** to connect agents to real tools such as databases, docs, GitHub and APIs, so they work with real project context
+- 📋 **Spec-first workflow:** I write the requirements and acceptance criteria, let the agent draft the implementation, then review, test and harden it
+- 🛡️ **Human in the loop:** security, data handling and compliance (Healthcare/FinTech) are always reviewed by me, never left to the agent alone
+
+**What I build with agentic AI**
+
+- 🗂️ Agents that **read documents** (PDFs, forms, invoices) and turn them into structured data in Laravel
+- 💬 **AI assistants and chatbots** inside admin panels and customer portals, grounded in the app's own data (RAG)
+- ⚙️ **Workflow agents** that use tool calling to look up records, call APIs and complete multi-step tasks
+- 🔍 **Smart search and summaries** over large datasets and reports
+- 🏥 **Healthcare automation agents** that check EVV visit data, flag exceptions and keep systems in sync with state aggregators
+- 🧪 AI-assisted **testing, code review and refactoring** of legacy PHP / Laravel codebases
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Agentic_AI-7C3AED?style=for-the-badge&logo=probot&logoColor=white" alt="Agentic AI" />
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/MCP-0EA5E9?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="MCP" />
+  <img src="https://img.shields.io/badge/Claude_API-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude API" />
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API" />
+  <img src="https://img.shields.io/badge/RAG-10B981?style=for-the-badge&logo=databricks&logoColor=white" alt="RAG" />
+</p>
 
 ## 📝 Guides & Projects
 
