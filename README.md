@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF2D20&center=true&vCenter=true&width=600&lines=Laravel+%26+Filament+Developer;Node.js+%7C+REST+APIs+%7C+MySQL;Agentic+AI+%7C+Claude+Code+%7C+MCP;AI-Assisted+Dev+%7C+LLM+Integrations;EVV+Integrations+%7C+US+Healthcare+Automation;Healthcare+%26+FinTech+Solutions;Clean+code.+Secure+systems." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF2D20&center=true&vCenter=true&width=600&lines=Laravel+%26+Filament+Developer;Node.js+%7C+REST+APIs+%7C+MySQL;Agentic+AI+%7C+Claude+Code+%7C+MCP;EMR+Automation+%7C+Custom+EMR+Systems;EVV+Integrations+%7C+US+Healthcare+Automation;Healthcare+%26+FinTech+Solutions;Clean+code.+Secure+systems." alt="Typing SVG" />
   </a>
 </p>
 
@@ -24,10 +24,11 @@ I'm **Lucky Ram**, a full-stack developer who started with **PHP** and grew into
 
 - 🏥 Building software in the **Healthcare** and **Finance** domains
 - 🇺🇸 Interested in **automating systems and EVV (Electronic Visit Verification) integrations in the US healthcare system**: syncing home health and hospice visit data from agency platforms to state EVV aggregators, validating it, and automating the workflows around it
+- 🩺 Automating **EMR (Electronic Medical Record) systems** and building **custom EMRs**: patient records, scheduling, clinical documentation, billing workflows and integrations with other healthcare systems
 - ⚙️ Focused on clean architecture, secure APIs and admin panels that teams love to use
 - 🔌 Experienced with third-party integrations, data sync and backend automation
 - 🤖 Working with **agentic AI** (Claude Code + MCP) to design, build and test faster without cutting corners on quality
-- 🧠 Adding practical AI to products: LLM chatbots, document & data extraction, smart search and workflow automation (OpenAI / Claude APIs)
+- 🧠 Adding practical AI to products: AI chatbots, document & data extraction, smart search and workflow automation (OpenAI / Claude APIs)
 - 🌱 Always learning — currently going deeper into scalable Node.js services and AI integrations
 - 💬 Ask me about **Laravel, Filament, REST APIs, MySQL, Agentic AI, AI integrations**
 - 💼 **Open to freelance projects** — web apps, admin panels, APIs, integrations and AI features
@@ -87,7 +88,6 @@ I don't just use AI to autocomplete code. I work with **AI agents** that plan, w
 <p align="center">
   <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI API" />
   <img src="https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude API" />
-  <img src="https://img.shields.io/badge/LLM_Integrations-0F172A?style=flat-square&logo=probot&logoColor=white" alt="LLM Integrations" />
   <img src="https://img.shields.io/badge/AI--Assisted_Dev-2563EB?style=flat-square&logo=githubcopilot&logoColor=white" alt="AI-Assisted Development" />
 </p>
 

@@ -70,8 +70,8 @@
     <text x="187" y="19" class="chip" fill="#fed7c7">Claude Code</text>
     <rect x="256" y="0" width="62" height="28" rx="14" fill="#22d3ee" fill-opacity="0.18" stroke="#22d3ee" stroke-opacity="0.7"/>
     <text x="287" y="19" class="chip" fill="#cffafe">MCP</text>
-    <rect x="328" y="0" width="112" height="28" rx="14" fill="#10b981" fill-opacity="0.18" stroke="#10b981" stroke-opacity="0.7"/>
-    <text x="384" y="19" class="chip" fill="#a7f3d0">LLM APIs</text>
+    <rect x="328" y="0" width="136" height="28" rx="14" fill="#10b981" fill-opacity="0.18" stroke="#10b981" stroke-opacity="0.7"/>
+    <text x="396" y="19" class="chip" fill="#a7f3d0">EMR Automation</text>
   </g>
 
   <!-- Right: code window -->
@@ -89,7 +89,7 @@
       <text x="40" y="92"><tspan fill="#c084fc">public</tspan> <tspan fill="#93c5fd">$stack</tspan> <tspan fill="#e5e7eb">= [</tspan><tspan fill="#86efac">'Laravel'</tspan><tspan fill="#e5e7eb">, </tspan><tspan fill="#86efac">'Filament'</tspan><tspan fill="#e5e7eb">,</tspan></text>
       <text x="58" y="116"><tspan fill="#86efac">'Node.js'</tspan><tspan fill="#e5e7eb">, </tspan><tspan fill="#86efac">'REST APIs'</tspan><tspan fill="#e5e7eb">];</tspan></text>
       <text x="40" y="146"><tspan fill="#c084fc">public</tspan> <tspan fill="#93c5fd">$ai</tspan> <tspan fill="#e5e7eb">= [</tspan><tspan fill="#86efac">'Agentic AI'</tspan><tspan fill="#e5e7eb">, </tspan><tspan fill="#86efac">'Claude Code'</tspan><tspan fill="#e5e7eb">,</tspan></text>
-      <text x="58" y="170"><tspan fill="#86efac">'MCP'</tspan><tspan fill="#e5e7eb">, </tspan><tspan fill="#86efac">'LLM APIs'</tspan><tspan fill="#e5e7eb">];</tspan></text>
+      <text x="58" y="170"><tspan fill="#86efac">'MCP'</tspan><tspan fill="#e5e7eb">];</tspan></text>
       <text x="22" y="196"><tspan fill="#e5e7eb">}</tspan></text>
       <text x="22" y="220"><tspan fill="#6b7393">// shipping clean code with AI agents</tspan><tspan class="cursor" fill="#e5e7eb">▌</tspan></text>
     </g>
