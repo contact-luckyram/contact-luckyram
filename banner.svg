@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Lucky Ram — Full-Stack PHP &amp; Node.js Developer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b1020"/>
+      <stop offset="55%" stop-color="#151b3b"/>
+      <stop offset="100%" stop-color="#1e1546"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ff2d20"/>
+      <stop offset="50%" stop-color="#f59e0b"/>
+      <stop offset="100%" stop-color="#22c55e"/>
+    </linearGradient>
+    <radialGradient id="glow1" cx="0.85" cy="0.2" r="0.5">
+      <stop offset="0%" stop-color="#7c3aed" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#7c3aed" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="0.1" cy="0.95" r="0.45">
+      <stop offset="0%" stop-color="#ff2d20" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#ff2d20" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#ffffff" stroke-opacity="0.04"/>
+    </pattern>
+    <style>
+      .name{font:800 64px 'Segoe UI',Inter,Helvetica,Arial,sans-serif;fill:#fff;letter-spacing:-1px}
+      .role{font:600 24px 'Segoe UI',Inter,Helvetica,Arial,sans-serif;fill:#c7d2fe}
+      .sub{font:400 17px 'Segoe UI',Inter,Helvetica,Arial,sans-serif;fill:#94a3b8}
+      .tag{font:600 15px 'Consolas','Fira Code',monospace;fill:#e2e8f0}
+      .code{font:500 15px 'Consolas','Fira Code',monospace}
+      .cursor{animation:blink 1s steps(1) infinite}
+      @keyframes blink{50%{opacity:0}}
+      .float{animation:float 6s ease-in-out infinite}
+      @keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-6px)}}
+      .fade{opacity:0;animation:fade .8s ease-out forwards}
+      .d1{animation-delay:.1s}.d2{animation-delay:.35s}.d3{animation-delay:.6s}.d4{animation-delay:.85s}
+      @keyframes fade{from{opacity:0;transform:translateX(-12px)}to{opacity:1;transform:translateX(0)}}
+    </style>
+  </defs>
+
+  <rect width="1200" height="300" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="18" fill="url(#grid)"/>
+  <rect width="1200" height="300" rx="18" fill="url(#glow1)"/>
+  <rect width="1200" height="300" rx="18" fill="url(#glow2)"/>
+  <rect x="0" y="292" width="1200" height="8" fill="url(#accent)"/>
+
+  <!-- Left: identity -->
+  <g class="fade d1"><text x="64" y="70" class="code" fill="#64748b">&lt;?php echo "Hello, World 👋"; ?&gt;</text></g>
+  <g class="fade d2"><text x="64" y="138" class="name">Lucky Ram</text></g>
+  <g class="fade d3"><text x="66" y="178" class="role">Full-Stack Developer · PHP · Laravel · Node.js</text></g>
+  <g class="fade d4"><text x="66" y="208" class="sub">Building secure, scalable apps for Healthcare &amp; FinTech</text></g>
+
+  <!-- Tech pills -->
+  <g transform="translate(64,232)"><g class="fade d4">
+    <rect width="66" height="32" rx="16" fill="#ff2d20" fill-opacity=".18" stroke="#ff2d20" stroke-opacity=".6"/>
+    <text x="33" y="21" text-anchor="middle" class="tag">PHP</text>
+    <rect x="76" width="92" height="32" rx="16" fill="#ff2d20" fill-opacity=".18" stroke="#ff2d20" stroke-opacity=".6"/>
+    <text x="122" y="21" text-anchor="middle" class="tag">Laravel</text>
+    <rect x="178" width="92" height="32" rx="16" fill="#f59e0b" fill-opacity=".18" stroke="#f59e0b" stroke-opacity=".6"/>
+    <text x="224" y="21" text-anchor="middle" class="tag">Filament</text>
+    <rect x="280" width="96" height="32" rx="16" fill="#22c55e" fill-opacity=".18" stroke="#22c55e" stroke-opacity=".6"/>
+    <text x="328" y="21" text-anchor="middle" class="tag">Node.js</text>
+    <rect x="386" width="78" height="32" rx="16" fill="#38bdf8" fill-opacity=".18" stroke="#38bdf8" stroke-opacity=".6"/>
+    <text x="425" y="21" text-anchor="middle" class="tag">MySQL</text>
+  </g></g>
+
+  <!-- Right: code window -->
+  <g transform="translate(760,48)"><g class="float">
+    <rect width="380" height="204" rx="12" fill="#0f172a" fill-opacity=".85" stroke="#334155"/>
+    <rect width="380" height="32" rx="12" fill="#1e293b"/>
+    <rect y="20" width="380" height="12" fill="#1e293b"/>
+    <circle cx="20" cy="16" r="6" fill="#ef4444"/>
+    <circle cx="40" cy="16" r="6" fill="#f59e0b"/>
+    <circle cx="60" cy="16" r="6" fill="#22c55e"/>
+    <text x="190" y="21" text-anchor="middle" class="code" fill="#64748b" font-size="13">Developer.php</text>
+    <text x="20" y="62" class="code"><tspan fill="#c084fc">class</tspan><tspan fill="#fbbf24"> LuckyRam</tspan><tspan fill="#e2e8f0"> {</tspan></text>
+    <text x="40" y="88" class="code"><tspan fill="#c084fc">public</tspan><tspan fill="#7dd3fc"> $stack</tspan><tspan fill="#e2e8f0"> = [</tspan></text>
+    <text x="60" y="112" class="code" fill="#86efac">'Laravel', 'Filament',</text>
+    <text x="60" y="136" class="code" fill="#86efac">'Node.js', 'REST APIs'</text>
+    <text x="40" y="160" class="code" fill="#e2e8f0">];</text>
+    <text x="40" y="184" class="code"><tspan fill="#64748b">// shipping clean code</tspan><tspan class="cursor" fill="#e2e8f0">▍</tspan></text>
+  </g></g>
+</svg>
