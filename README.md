@@ -4,13 +4,14 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF2D20&center=true&vCenter=true&width=600&lines=Laravel+%26+Filament+Developer;Node.js+%7C+REST+APIs+%7C+MySQL;Healthcare+%26+FinTech+Solutions;Clean+code.+Secure+systems." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF2D20&center=true&vCenter=true&width=600&lines=Laravel+%26+Filament+Developer;Node.js+%7C+REST+APIs+%7C+MySQL;AI-Assisted+Dev+%7C+LLM+Integrations;Healthcare+%26+FinTech+Solutions;Clean+code.+Secure+systems." alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/contact-luckyram"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://linkedin.com/in/lucky-ram"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://about.me/luckyram"><img src="https://img.shields.io/badge/about.me-00405D?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="about.me" /></a>
   <a href="mailto:contact.luckyram@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://api.visitorbadge.io/api/visitors?path=github.com%2Fcontact-luckyram&label=PROFILE%20VIEWS&labelColor=%237c3aed&countColor=%23181717&style=for-the-badge" alt="Profile views" />
 </p>
@@ -24,9 +25,19 @@ I'm **Lucky Ram**, a full-stack developer who started with **PHP** and grew into
 - 🏥 Building software in the **Healthcare** and **Finance** domains
 - ⚙️ Focused on clean architecture, secure APIs and admin panels that teams love to use
 - 🔌 Experienced with third-party integrations, data sync and backend automation
-- 🌱 Always learning — currently going deeper into scalable Node.js services
-- 💬 Ask me about **Laravel, Filament, REST APIs, MySQL**
+- 🤖 Using **AI-assisted development** to design, build and test faster without cutting corners on quality
+- 🧠 Adding practical AI to products: LLM chatbots, document & data extraction, smart search and workflow automation (OpenAI / Claude APIs)
+- 🌱 Always learning — currently going deeper into scalable Node.js services and AI integrations
+- 💬 Ask me about **Laravel, Filament, REST APIs, MySQL, AI integrations**
+- 💼 **Open to freelance projects** — web apps, admin panels, APIs, integrations and AI features
 - 📫 Reach me at **contact.luckyram@gmail.com**
+
+## 📝 Guides & Projects
+
+| Project | Description |
+|---|---|
+| 🔭 [**laravel-telescope-guide**](https://github.com/contact-luckyram/laravel-telescope-guide) | Step-by-step guide to install and use Laravel Telescope to monitor requests, queries, jobs, mail, exceptions and more |
+| 🧩 [**laravel-filament-modules**](https://github.com/contact-luckyram/laravel-filament-modules) | Step-by-step guide to a modular Laravel + Filament setup with nwidart/laravel-modules |
 
 ## 🛠️ Tech Stack
 
@@ -40,6 +51,13 @@ I'm **Lucky Ram**, a full-stack developer who started with **PHP** and grew into
   <img src="https://img.shields.io/badge/REST_APIs-009688?style=flat-square&logo=fastapi&logoColor=white" alt="REST APIs" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/Composer-885630?style=flat-square&logo=composer&logoColor=white" alt="Composer" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI API" />
+  <img src="https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude API" />
+  <img src="https://img.shields.io/badge/LLM_Integrations-0F172A?style=flat-square&logo=probot&logoColor=white" alt="LLM Integrations" />
+  <img src="https://img.shields.io/badge/AI--Assisted_Dev-2563EB?style=flat-square&logo=githubcopilot&logoColor=white" alt="AI-Assisted Development" />
 </p>
 
 ## 📊 GitHub Stats
