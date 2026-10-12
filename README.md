@@ -22,7 +22,8 @@ I'm **Lucky Ram**, a full-stack developer working with **PHP, Laravel, Filament 
 
 | Repository | Description |
 | --- | --- |
-| 💊 [**pharmacy-inventory-filament**](https://github.com/contact-luckyram/pharmacy-inventory-filament) | Pharmacy inventory & billing admin panel (Laravel 13 + Filament 5) · [Live demo](https://medistock-xiyz.onrender.com/admin) |
+| 🧑‍💼 [**hiredesk-ats**](https://github.com/contact-luckyram/hiredesk-ats) | Applicant tracking & onboarding system (Laravel 13 + Filament 5) with custom pipeline stages · [Live demo](https://hiredesk-ats.onrender.com) |
+| 💊 [**pharmacy-inventory-filament**](https://github.com/contact-luckyram/pharmacy-inventory-filament) | Pharmacy inventory & billing admin panel (Laravel 13 + Filament 5) |
 | ⚡ [**laravel-filament-guide**](https://github.com/contact-luckyram/laravel-filament-guide) | Why Filament is the best Laravel admin framework, its structure, and installation |
 | 🧩 [**laravel-filament-modules**](https://github.com/contact-luckyram/laravel-filament-modules) | Modular Laravel + Filament setup with nwidart/laravel-modules |
 | 🔭 [**laravel-telescope-guide**](https://github.com/contact-luckyram/laravel-telescope-guide) | Install and use Laravel Telescope to monitor requests, queries, jobs and more |
